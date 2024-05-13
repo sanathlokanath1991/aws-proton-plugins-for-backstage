@@ -96,7 +96,7 @@ spec:
         region: us-east-1
         templateName: load-balanced-fargate-svc
         templateMajorVersion: '1'
-        repositoryConnectionArn: 'arn:aws:codestar-connections:us-east-1:274073291313:connection/37d3330c-1a6a-45c0-9d26-2026f75c0fa0'
+        repositoryConnectionArn: 'arn:aws:proton:us-east-1:274073291313:repository/github:sanathlokanath1991/aws-proton-plugins-for-backstage'
 
     - id: register
       name: Register
